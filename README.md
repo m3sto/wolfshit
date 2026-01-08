@@ -4,8 +4,7 @@
 
 ---
 
-## 🇺🇸 English
-
+## 🇹🇷🇬🇧 Designed with Turkish & English Designed 
 ### 📝 Description
 **Wolfshit** is a powerful programming and scripting language developed for developers who seek a unique and efficient coding experience.
 
